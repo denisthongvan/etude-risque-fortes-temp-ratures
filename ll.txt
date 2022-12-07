@@ -1,0 +1,211 @@
+Pays  Latitude  Longitude
+Afghanistan  34°28'N  69°11'E
+Albanie  41°18'N  19°49'E
+Algérie  36°42'N  03°08'E
+Samoa américaines  14°16'S  170°43'W
+Andorre  42°31'N  01°32'E
+Angola  08°50'S  13°15'E
+Antigua-et-Barbuda  17°20'N  61°48'W
+Arabie saoudite  23°53'N  45°40'E
+Argentine  36°30'S  60°00'W
+Arménie  40°10'N  44°31'E
+Australie  35°15'S  149°08'E
+Autriche  48°12'N  16°22'E
+Azerbaïdjan  40°29'N  49°56'E
+Bahamas  25°05'N  77°20'W
+Bahreïn  26°10'N  50°30'E
+Bangladesh  23°43'N  90°26'E
+Barbade  13°05'N  59°30'W
+Bélarus  53°52'N  27°30'E
+Belgique  50°51'N  04°21'E
+Belize  17°18'N  88°30'W
+Bénin  06°23'N  02°42'E
+Bhoutan  27°31'N  89°45'E
+Bolivie  16°20'S  68°10'W
+Bosnie-Herzégovine  43°52'N  18°26'E
+Botswana  24°45'S  25°57'E
+Brésil  15°47'S  47°55'W
+Brunéi Darussalam  04°52'N  115°00'E
+Bulgarie  42°45'N  23°20'E
+Burkina Faso  12°15'N  01°30'W
+Burundi  03°16'S  29°18'E
+Cambodge  11°33'N  104°55'E
+Cameroun  03°50'N  11°35'E
+Canada  45°27'N  75°42'W
+Cabo Verde  15°02'N  23°34'W
+République centrafricaine  04°23'N  18°35'E
+Tchad  12°10'N  14°59'E
+Chili  33°24'S  70°40'W
+Chine (République populaire de)  39°55'N  116°20'E
+Colombie  04°34'N  74°00'W
+Comores  11°40'S  43°16'E
+Congo  04°09'S  15°12'E
+République démocratique du Congo  04°20'S  15°15'E
+Costa Rica  09°55'N	  84°02'W
+Côte d'Ivoire  06°49'N  05°17'W
+Croatie  45°50'N  15°58'E
+Cuba  23°08'N  82°22'W
+Chypre  35°10'N  33°25'E
+République tchèque  50°05'N  14°22'E
+Danemark  55°41'N  12°34'E
+Djibouti  11°08'N  42°20'E
+Dominique  15°20'N  61°24'W
+République dominicaine  18°30'N  69°59'W
+Timor-Leste  08°29'S  125°34'E
+Équateur  00°15'S  78°35'W
+Égypte  30°01'N  31°14'E
+El Salvador  13°40'N  89°10'W
+Guinée équatoriale  03°45'N  08°50'E
+Érythrée  15°19'N  38°55'E
+Estonie  59°22'N  24°48'E
+Éthiopie  09°02'N  38°42'E
+Malouines  51°40'S  59°51'W
+Iles Féroé  62°05'N	  06°56'W
+Fidji  18°06'S  178°30'E
+Finlande  60°15'N  25°03'E
+France  48°50'N  02°20'E
+Polynésie française  17°32'S  149°34'W
+Gabon  00°25'N  09°26'E
+Gambie  13°28'N  16°40'W
+Géorgie  41°43'N  44°50'E
+Allemagne  52°30'N  13°25'E
+Ghana  05°35'N  00°06'W
+Grèce  37°58'N  23°46'E
+Groenland  64°10'N  51°35'W
+Guadeloupe  16°00'N  61°44'W
+Guatemala  14°40'N  90°22'W
+Guernesey  49°26'N  02°33'W
+Guinée  09°29'N  13°49'W
+Guinée-Bissau  11°45'N  15°45'W
+Guyana  06°50'N  58°12'W
+Haïti  18°40'N  72°20'W
+Honduras  14°05'N  87°14'W
+Hongrie  47°29'N  19°05'E
+Islande  64°10'N  21°57'W
+Inde  28°37'N  77°13'E
+Indonésie  06°09'S  106°49'E
+Iran  35°44'N  51°30'E
+Iraq  33°20'N  44°30'E
+Irlande  53°21'N  06°15'W
+Israël  31°47'N  35°12'E
+Italie  41°54'N  12°29'E
+Jamaïque  18°00'N  76°50'W
+Jordanie  31°57'N  35°52'E
+Japon  35°41'N  139°41'E
+Kazakhstan  51°10'N	  71°30'E
+Kenya  01°17'S  36°48'E
+Kiribati  01°30'N  173°00'E
+Koweït  29°30'N  48°00'E
+Kirghizistan  42°54'N  74°46'E
+République démocratique populaire lao  17°58'N  102°36'E
+Lettonie  56°53'N  24°08'E
+Liban  33°53'N  35°31'E
+Lesotho  29°18'S  27°30'E
+Libéria  06°18'N  10°47'W
+Libye  32°49'N  13°07'E
+Liechtenstein  47°08'N  09°31'E
+Lituanie  54°38'N  25°19'E
+Luxembourg  49°37'N  06°09'E
+Macao  22°12'N  113°33'E
+Madagascar  18°55'S  47°31'E
+Malawi  14°00'S  33°48'E
+Malaisie  03°09'N  101°41'E
+Maldives  04°00'N  73°28'E
+Mali  12°34'N  07°55'W
+Malte  35°54'N  14°31'E
+Maroc  28°57'N  09°48'W
+Martinique  14°36'N  61°02'W
+Mauritanie  20°10'S  57°30'E
+Mayotte  12°48'S  45°14'E
+Mexique  19°20'N  99°10'W
+MicronTsie  06°55'N  158°09'E
+Moldova  47°02'N  28°50'E
+Mozambique  25°58'S  32°32'E
+Mongolie  46°00'N  105°00'E
+MontTnTgro  42°42'N  19°24'E
+Myanmar  16°45'N  96°20'E
+Namibie  22°35'S  17°04'E
+Nauru  00°31'S  166°55'E
+Népal  27°45'N  85°20'E
+Pays-Bas  52°23'N  04°54'E
+Antilles néerlandaises  12°05'N  69°00'W
+Nouvelle-Calédonie  22°17'S  166°30'E
+Nouvelle-Zélande  41°19'S  174°46'E
+Nicaragua  12°06'N  86°20'W
+Niger  13°27'N  02°06'E
+Nigéria  09°05'N  07°32'E
+Île de Norfolk  45°20'S  168°43'E
+Iles Mariannes du Nord  15°12'N  145°45'E
+Norvège  59°55'N  10°45'E
+Oman  23°37'N  58°36'E
+Pakistan  30°26'N  73°10'E
+Palaos  07°20'N  134°28'E
+Panama  09°00'N  79°25'W
+Papouasie-Nouvelle-Guinée  09°24'S  147°08'E
+Paraguay  25°10'S  57°30'W
+Pérou  12°00'S  77°00'W
+Philippines  14°40'N  121°03'E
+Pologne  52°13'N  21°00'E
+Portugal  38°42'N  09°10'W
+Porto Rico  18°28'N  66°07'W
+Qatar  25°15'N  51°35'E
+Corée  37°31'N  126°58'E
+Roumanie  44°27'N  26°10'E
+Russie  55°45'N  37°35'E
+Rwanda  01°59'S  30°04'E
+Saint-Kitts-et-Nevis  17°17'N  62°43'W
+Sainte-Lucie  14°02'N  60°58'W
+Saint-Pierre-et-Miquelon  46°46'N  56°12'W
+Saint-Vincent-et-les Grenadines  13°10'N  61°10'W
+République populaire démocratique de Corée  39°09'N  125°30'E
+Samoa  13°50'S  171°50'W
+Saint-Marin  43°55'N  12°30'E
+Sao Tomé-et-Principe  00°10'N  06°39'E
+Arabie Saoudite  24°41'N  46°42'E
+Sénégal  14°34'N  17°29'W
+Seychelles  07°10'S  51°14'E
+Sierra Leone  08°30'N  13°17'W
+Singapour  01°16'N  103°51'E
+République slovaque  48°10'N  17°07'E
+Slovénie  46°04'N  14°33'E
+Îles Salomon  09°27'S  159°57'E
+Îles Marshall  10°10'N  168°72'E
+Somalie  02°02'N  45°25'E
+Afrique du Sud  25°44'S  28°12'E
+Espagne  40°25'N  03°45'W
+Soudan  15°31'N  32°35'E
+Soudan du Sud  07°51'N  30°20'E
+Suriname  05°50'N  55°10'W
+Eswatini  26°18'S  31°06'E
+Sri Lanka  07°52'N  80°46'E
+Suède  59°20'N  18°03'E
+Suisse  46°57'N  07°28'E
+République arabe syrienne  33°30'N  36°18'E
+Tadjikistan  38°33'N  68°48'E
+Thaïlande  13°45'N  100°35'E
+Macédoine du Nord  42°01'N  21°26'E
+Togo  06°09'N  01°20'E
+Tonga  21°10'S  174°00'W
+Trinité-et-Tobago  10°41'N  61°13'W
+Tunisie  36°50'N  10°11'E
+Turquie  39°57'N  32°54'E
+Turkménistan  38°00'N  57°50'E
+Tuvalu  08°31'S  179°13'E
+Ouganda  00°20'N  32°30'E
+Ukraine  50°30'N  30°28'E
+Émirats arabes unis  24°28'N  54°22'E
+Royaume-Uni  51°36'N  00°05'W
+Tanzanie  06°08'S  35°45'E
+Taipei chinois  23°36'N  120°46'E
+États-Unis  39°91'N  77°02'W
+Iles Vierges des +tats-Unis  18°21'N  64°56'W
+Uruguay  34°50'S  56°11'W
+Ouzbékistan  41°20'N  69°10'E
+Vanuatu  17°45'S  168°18'E
+Venezuela  10°30'N  66°55'W
+Viet Nam  21°05'N  105°55'E
+Serbie  44°50'N  20°37'E
+Yémen  15°33'N  48°31'E
+Zambie  15°28'S  28°16'E
+Zimbabwe  17°43'S  31°02'E
+Autorité palestinienne ou Cisjordanie et bande de Gaza  31°25'N  34°20'E
